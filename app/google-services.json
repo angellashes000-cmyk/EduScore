@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "448635747959",
+    "firebase_url": "https://loginupb1-4c62b-default-rtdb.firebaseio.com",
+    "project_id": "loginupb1-4c62b",
+    "storage_bucket": "loginupb1-4c62b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448635747959:android:169e21e25a82fdf68f9072",
+        "android_client_info": {
+          "package_name": "com.example.eduscore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDY6zvxCKe7gGAIH9dOnP8qsD9PnpkmCEA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448635747959:android:5f0bc9a563aacbd78f9072",
+        "android_client_info": {
+          "package_name": "com.example.loginupb1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDY6zvxCKe7gGAIH9dOnP8qsD9PnpkmCEA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
